@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TugasIntent</string>
+    <string name="register">Register</string>
+    <string name="usn">Username</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="pass">Password</string>
+    <string name="checkbox">By checking the box you agree to our Terms and Conditions</string>
+    <string name="login">Login</string>
+    <string name="homepage">Homepage</string>
+    <string name="welcome">Welcome</string>
+    <string name="ur">Your</string>
+    <string name="activated">has been activated</string>
+    <string name="registered">has been registered</string>
+    <string name="pers_detail">This Is Your Personal Details:</string>
+    <string name="gender">Gender</string>
+</resources>
